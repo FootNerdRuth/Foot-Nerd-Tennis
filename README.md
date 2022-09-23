@@ -9,4 +9,5 @@ How will we build it?
 Who will be involved?
 How will it integrate with HealthKit?
 
-What is foot nerd tennis (concrete, clear offer - duration, content, price)
+What is foot nerd tennis? (concrete, clear offer - duration, content, price)
+Who is it for?
